@@ -13,12 +13,12 @@ This program is a simple solidity contract that uses:
 
 ### Executing program
 
-To run this program, you can use Remix, or simply run the tests.
+To run this program, you can use Remix IDE.
 ## Run tests
 
-- First clone/Download this repo and cd into the folder.
-- In the command line - type: `npm install`.
-- then finally run - `npx hardhat test`.
+- First Download/Copy the `ErrorHandling.sol` file.
+- Compile the solidity file in Remix IDE.
+- Deploy the contract and then you will be able to call the functions.
 
 
 ## Authors
